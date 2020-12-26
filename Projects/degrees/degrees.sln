@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Degrees", "Degrees.pyproj", "{44D8DA1C-8FCC-4DF6-86CA-EBC950681B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D8DA1C-8FCC-4DF6-86CA-EBC950681B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D8DA1C-8FCC-4DF6-86CA-EBC950681B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC402E9-E24F-44EB-8BE9-5C2ABA29EFCE}
+	EndGlobalSection
+EndGlobal
